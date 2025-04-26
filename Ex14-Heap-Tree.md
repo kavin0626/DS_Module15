@@ -5,7 +5,7 @@ To write a C function to delete an element in a Heap Tree.
 
 ## Algorithm
 1. Start 
-2. Find the index of the element num in the array. 
+2. Find the index of  the element num in the array. 
 3. Swap the element to be deleted with the last element in the array. 
 4. Decrease the array size (size) by 1. 
 5. Start heapifying from the last non-leaf node (index size/2 - 1). 
